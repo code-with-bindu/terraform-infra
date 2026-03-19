@@ -1,0 +1,1 @@
+{"auto_scaling":true,"cloud_provider":"AWS","created_at":"2026-03-19T06:22:37Z","created_by":"Terraform","database":"PostgreSQL","environment":"development","instance_type":"t2.micro","max_instances":5,"min_instances":1,"region":"ap-south-1","storage":"S3"}
